@@ -1,0 +1,1 @@
+select * from SOLAR_CUR_CREATE;  
